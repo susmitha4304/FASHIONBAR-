@@ -1,0 +1,6 @@
+{
+  "name": "Fashionbar",
+  "description": "Premium e-commerce platform for women's traditional wear, modern outfits, ethnic collections, fashion accessories, beauty products, and lifestyle essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
